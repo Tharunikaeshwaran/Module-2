@@ -29,6 +29,8 @@ else:
 
 ```
 ## Output
+<img width="666" height="179" alt="Screenshot 2026-06-01 140350" src="https://github.com/user-attachments/assets/9934bf77-5592-4cca-ab9c-5f75b0bc5b4a" />
+
 <img width="907" height="249" alt="image" src="https://github.com/user-attachments/assets/2f8218f8-2cd5-4c71-804d-4d0dfe044a37" />
 
 ## Result
